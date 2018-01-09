@@ -1,6 +1,6 @@
 #include<iostream>
 #include <cstdlib>
-
+// en.wikipedia.org/wiki/Linked_list
 
 using namespace std;
 struct node
